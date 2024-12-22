@@ -69,7 +69,7 @@ Jupyter Notebook, Google Colab, Git, GitHub
 I'm always open to new opportunities, collaborations, and discussions! Feel free to reach out if you want to connect.
 
 📧 Email: rishabhdhirhe99@gmail.com
-💬 LinkedIn: https://www.linkedin.com/in/rishabh-dhirhe-450758342/
+💬 LinkedIn: https://www.linkedin.com/in/rishabh-dhirhe-rizz-kd/
 🌟 Let's Collaborate!
 If you're interested in any of my projects or have an idea for something exciting, don't hesitate to open an issue or submit a pull request. Let's create something amazing together! 🙌
 
