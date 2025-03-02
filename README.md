@@ -1,70 +1,100 @@
 Hi there, I'm Rishabh Kumar Dhirhe! 👋
-Welcome to my GitHub profile! I’m a passionate data scientist and analyst with a deep interest in machine learning, predictive analytics, and data-driven insights. My goal is to explore the world of data, uncover meaningful patterns, and build intelligent systems. If you're interested in data science or want to collaborate on exciting projects, you've come to the right place!
+Welcome to my GitHub profile! I’m a passionate about Data Science and Analysis with a deep interest in machine learning, predictive analytics, and data-driven insights. My goal is to explore the world of data, uncover meaningful patterns, and build intelligent systems. If you're interested in data science or want to collaborate on exciting projects, you've come to the right place!
 
 🚀 Projects
 Here are some of the key projects I've worked on:
 
 Public Projects
-Prediction-of-BoxOffice-Revenue
-Predicts the revenue a movie will earn at the box office using various features like genre, cast, director, and more.
+1. Titanic Survival App Using Streamlit
+Description: Designed an interactive web application using Streamlit to predict Titanic survival probability. Integrated a trained ML model, allowing users to input features and get real-time predictions.
 
-Used-Car-Price-Analysis-Using-Python
-Analyzes the price trends of used cars and predicts their market value based on features such as make, model, mileage, and year.
+2. Multimodal Content Analysis Using Deep Learning
+Description: Built a deep learning model to analyze text and image data simultaneously. Used CNNs for image processing and transformers for NLP to extract insights from multimodal datasets.
 
-Titanic-Survival-Prediction-Using-ML
-A machine learning model to predict Titanic passenger survival chances based on factors like age, class, and gender.
+3. Analysis of Customer Churn and Prediction Using ML
+Description: Conducted exploratory data analysis (EDA) and trained ML models to predict customer churn. Applied logistic regression, decision trees, and boosting techniques to improve prediction accuracy.
 
-Iris-Flower-Dataset-Analysis
-A classic data analysis project exploring the famous Iris dataset to classify different species of Iris flowers.
+4. Time Series Analysis and Visualization on Stock Price Data
+Description: Analyzed stock price trends using time series forecasting techniques like ARIMA, LSTM, and Exponential Smoothing. Visualized trends and seasonality patterns using Matplotlib and Seaborn.
 
-House-Price-Prediction-using-ML-in-Python
-Predicts house prices using machine learning algorithms and a detailed dataset of various house features.
+5. Online Payment Fraud Detection Using ML
+Description: Developed a fraud detection system using machine learning algorithms to classify transactions as fraudulent or legitimate. Handled imbalanced datasets with SMOTE and improved model performance using ensemble learning techniques.
 
-Covid-19-Data-Analysis
-Analyzes global COVID-19 trends, using data visualization techniques to track the virus's spread.
+6. Movie Recommendation System Using Python
+Description: Built a recommendation system using collaborative and content-based filtering techniques. Implemented cosine similarity and matrix factorization methods to generate personalized movie recommendations.
 
-IPL-Data-Analysis
-A comprehensive analysis of Indian Premier League (IPL) data, uncovering player performance patterns, team dynamics, and more.
+7. Customer Segmentation Using K-Means
+Description: Applied unsupervised learning to segment customers based on purchasing behavior. Used K-Means clustering to group similar customers and performed data visualization to interpret the segments.
 
-Zomato-Data-Analysis
-Insights into Zomato’s restaurant dataset, including restaurant ratings, locations, and cuisines.
+8. Recognizing Handwritten Digits
+Description: Implemented a deep learning model using CNNs to recognize handwritten digits from the MNIST dataset. Trained the model with backpropagation and optimization techniques to achieve high accuracy.
 
-Private Projects
-Prediction-of-loan-approval-using-ML
-A machine learning model to predict loan approval based on applicant details and financial history.
+9. Fake News Detection Using ML
+Description: Built a machine learning model to classify news articles as real or fake using natural language processing (NLP) techniques. Implemented TF-IDF vectorization, word embeddings, and various classification algorithms like Naïve Bayes and Random Forest.
 
-Analysis-of-uber-rides-using-py
-In-depth analysis of Uber ride data, looking at trends in ride durations, costs, and locations.
+10. Cat and Dog Classification Using CNN
+Description: Developed a Convolutional Neural Network (CNN) model to classify images of cats and dogs. Used image preprocessing, data augmentation, and transfer learning techniques to improve accuracy. Evaluated performance using confusion matrix and precision-recall metrics.
 
-Movie_recommendation_system_using_KNN
-A movie recommendation system using k-Nearest Neighbors to suggest movies based on user preferences.
+I have also done many more projects all posed in their respective repositories please feel free to go through them.
 
-Sentiment_Analysis_For_US_Election
-Sentiment analysis of social media data related to the US elections, identifying public opinion trends.
+🛠 Skills Gained from All Projects 🛠
+*Machine Learning & Data Science*
+* Supervised & Unsupervised Learning
+* Classification & Regression Models
+* Feature Engineering & Selection
+* Model Evaluation Metrics
+* Imbalanced Data Handling (SMOTE)
+* Ensemble Learning & Boosting Algorithms
+   
+*Deep Learning & Computer Vision* 
+* Convolutional Neural Networks (CNN)
+* Neural Network Optimization (Backpropagation, Hyperparameter Tuning)
+* Transfer Learning & Pretrained Models
+* Image Processing & Augmentation
+* Multimodal Learning (Image + Text)
 
-Analysis-of-Customer-Churn-And-Prediction-Using-ML-RF
-A machine learning-based analysis to predict customer churn using random forests.
+*Natural Language Processing (NLP)*
+* Text Preprocessing (Tokenization, Lemmatization, Stopword Removal)
+* TF-IDF Vectorization & Word Embeddings
+* Transformer Models for NLP
+* Fake News Detection & Sentiment Analysis
 
-🛠 Skills
-I specialize in the following:
+*Time Series Analysis & Forecasting*
+* ARIMA, LSTM, Exponential Smoothing
+* Trend, Seasonality, and Stationarity Analysis
+* Stock Price Prediction & Visualization
 
-Data Science & Analytics
+*Recommendation Systems*
+* Collaborative & Content-Based Filtering
+* Cosine Similarity & Matrix Factorization
 
-Python (Pandas, Numpy, Matplotlib, Seaborn)
-Machine Learning (Scikit-learn, TensorFlow)
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Statistical Analysis
-Predictive Modeling & Forecasting
-Data Visualization
+*Data Handling & Processing*
+* Exploratory Data Analysis (EDA)
+* Data Wrangling & Cleaning
+* Feature Scaling & Normalization
 
-Matplotlib, Seaborn, Plotly
-Data Manipulation
+*Data Visualization*
+* Matplotlib, Seaborn, Plotly
+* Trend & Pattern Identification
 
-SQL, Pandas, Numpy
-Tools & Technologies
+*Web App Development & Deployment*
+* Streamlit for ML App Development
+* API Integration & Model Deployment
 
-Jupyter Notebook, Google Colab, Git, GitHub
+*Business & Analytical Skills*
+* Customer Segmentation & Churn Prediction
+* Fraud Detection & Risk Analysis
+* Business Intelligence & Decision-Making
+
+*🛠 TOOLS 🛠*
+* Jupyter
+* Colab
+* SQL
+* Tableau
+* Power BI
+* Streamlit
+* Github
+
 📫 How to Reach Me
 I'm always open to new opportunities, collaborations, and discussions! Feel free to reach out if you want to connect.
 
