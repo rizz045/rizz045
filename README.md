@@ -35,7 +35,7 @@ Description: Built a machine learning model to classify news articles as real or
 10. Cat and Dog Classification Using CNN
 Description: Developed a Convolutional Neural Network (CNN) model to classify images of cats and dogs. Used image preprocessing, data augmentation, and transfer learning techniques to improve accuracy. Evaluated performance using confusion matrix and precision-recall metrics.
 
-I have also done many more projects all posed in their respective repositories please feel free to go through them.
+I have worked on several other projects, all available in their respective repositories. Feel free to explore them.
 
 🛠 Skills Gained from All Projects 🛠
 *Machine Learning & Data Science*
