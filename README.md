@@ -1,106 +1,27 @@
-Hi there, I'm Rishabh Kumar Dhirhe! 👋
-Welcome to my GitHub profile! I’m a passionate about Data Science and Analysis with a deep interest in machine learning, predictive analytics, and data-driven insights. My goal is to explore the world of data, uncover meaningful patterns, and build intelligent systems. If you're interested in data science or want to collaborate on exciting projects, you've come to the right place!
+<h1 align="center">Hi 👋, I'm Rishabh Kumar Dhirhe</h1>
+<h3 align="center">I’m a passionate about Data Science and Analysis with a deep interest in machine learning, predictive analytics, and data-driven insights. My goal is to explore the world of data, uncover meaningful patterns, and build intelligent systems. If you're interested in data science or want to collaborate on exciting projects, you've come to the right place!</h3>
 
-🚀 Projects
-Here are some of the key projects I've worked on:
+- 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, Artificial Intelligence and many more.**
 
-Public Projects
-1. Titanic Survival App Using Streamlit
-Description: Designed an interactive web application using Streamlit to predict Titanic survival probability. Integrated a trained ML model, allowing users to input features and get real-time predictions.
+- 👨‍💻 All of my projects are available at [https://github.com/rizz045](https://github.com/rizz045)
 
-2. Multimodal Content Analysis Using Deep Learning
-Description: Built a deep learning model to analyze text and image data simultaneously. Used CNNs for image processing and transformers for NLP to extract insights from multimodal datasets.
+- 💬 Ask me about **Data Science or Machine Learning**
 
-3. Analysis of Customer Churn and Prediction Using ML
-Description: Conducted exploratory data analysis (EDA) and trained ML models to predict customer churn. Applied logistic regression, decision trees, and boosting techniques to improve prediction accuracy.
+- 📫 How to reach me **kdrishabhkd@gmail.com**
 
-4. Time Series Analysis and Visualization on Stock Price Data
-Description: Analyzed stock price trends using time series forecasting techniques like ARIMA, LSTM, and Exponential Smoothing. Visualized trends and seasonality patterns using Matplotlib and Seaborn.
+- 📄 Know about my experiences [https://drive.google.com/file/d/10cSXNsfdkmszd039NvXrMoaeeGqjQ_sk/view?usp=sharing](https://drive.google.com/file/d/10cSXNsfdkmszd039NvXrMoaeeGqjQ_sk/view?usp=sharing)
 
-5. Online Payment Fraud Detection Using ML
-Description: Developed a fraud detection system using machine learning algorithms to classify transactions as fraudulent or legitimate. Handled imbalanced datasets with SMOTE and improved model performance using ensemble learning techniques.
+- ⚡ Fun fact **I think I listen very well, if you just want to talk I will be available. :)**
 
-6. Movie Recommendation System Using Python
-Description: Built a recommendation system using collaborative and content-based filtering techniques. Implemented cosine similarity and matrix factorization methods to generate personalized movie recommendations.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rishabh-dhirhe-rizz-kd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-dhirhe-rizz-kd" height="30" width="40" /></a>
+</p>
 
-7. Customer Segmentation Using K-Means
-Description: Applied unsupervised learning to segment customers based on purchasing behavior. Used K-Means clustering to group similar customers and performed data visualization to interpret the segments.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-8. Recognizing Handwritten Digits
-Description: Implemented a deep learning model using CNNs to recognize handwritten digits from the MNIST dataset. Trained the model with backpropagation and optimization techniques to achieve high accuracy.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizz045&show_icons=true&locale=en&layout=compact" alt="rizz045" /></p>
 
-9. Fake News Detection Using ML
-Description: Built a machine learning model to classify news articles as real or fake using natural language processing (NLP) techniques. Implemented TF-IDF vectorization, word embeddings, and various classification algorithms like Naïve Bayes and Random Forest.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizz045&" alt="rizz045" /></p>
 
-10. Cat and Dog Classification Using CNN
-Description: Developed a Convolutional Neural Network (CNN) model to classify images of cats and dogs. Used image preprocessing, data augmentation, and transfer learning techniques to improve accuracy. Evaluated performance using confusion matrix and precision-recall metrics.
-
-I have worked on several other projects, all available in their respective repositories. Feel free to explore them.
-
-🛠 Skills Gained from All Projects 🛠
-*Machine Learning & Data Science*
-* Supervised & Unsupervised Learning
-* Classification & Regression Models
-* Feature Engineering & Selection
-* Model Evaluation Metrics
-* Imbalanced Data Handling (SMOTE)
-* Ensemble Learning & Boosting Algorithms
-   
-*Deep Learning & Computer Vision* 
-* Convolutional Neural Networks (CNN)
-* Neural Network Optimization (Backpropagation, Hyperparameter Tuning)
-* Transfer Learning & Pretrained Models
-* Image Processing & Augmentation
-* Multimodal Learning (Image + Text)
-
-*Natural Language Processing (NLP)*
-* Text Preprocessing (Tokenization, Lemmatization, Stopword Removal)
-* TF-IDF Vectorization & Word Embeddings
-* Transformer Models for NLP
-* Fake News Detection & Sentiment Analysis
-
-*Time Series Analysis & Forecasting*
-* ARIMA, LSTM, Exponential Smoothing
-* Trend, Seasonality, and Stationarity Analysis
-* Stock Price Prediction & Visualization
-
-*Recommendation Systems*
-* Collaborative & Content-Based Filtering
-* Cosine Similarity & Matrix Factorization
-
-*Data Handling & Processing*
-* Exploratory Data Analysis (EDA)
-* Data Wrangling & Cleaning
-* Feature Scaling & Normalization
-
-*Data Visualization*
-* Matplotlib, Seaborn, Plotly
-* Trend & Pattern Identification
-
-*Web App Development & Deployment*
-* Streamlit for ML App Development
-* API Integration & Model Deployment
-
-*Business & Analytical Skills*
-* Customer Segmentation & Churn Prediction
-* Fraud Detection & Risk Analysis
-* Business Intelligence & Decision-Making
-
-*🛠 TOOLS 🛠*
-* Jupyter
-* Colab
-* SQL
-* Tableau
-* Power BI
-* Streamlit
-* Github
-
-📫 How to Reach Me
-I'm always open to new opportunities, collaborations, and discussions! Feel free to reach out if you want to connect.
-
-📧 Email: rishabhdhirhe99@gmail.com
-💬 LinkedIn: https://www.linkedin.com/in/rishabh-dhirhe-rizz-kd/
-🌟 Let's Collaborate!
-If you're interested in any of my projects or have an idea for something exciting, don't hesitate to open an issue or submit a pull request. Let's create something amazing together! 🙌
-
-Thank you for visiting my profile! ✨
