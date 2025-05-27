@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar Dhirhe</h1>
 <h3 align="center">I’m a passionate about Data Science and Analysis with a deep interest in machine learning, predictive analytics, and data-driven insights. My goal is to explore the world of data, uncover meaningful patterns, and build intelligent systems. If you're interested in data science or want to collaborate on exciting projects, you've come to the right place!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizz045" alt="rizz045" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, Artificial Intelligence and many more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rizz045](https://github.com/rizz045)
