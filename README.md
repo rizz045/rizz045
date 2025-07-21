@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, Artificial Intelligence and many more.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rizz045](https://github.com/rizz045)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/rizz045)
 
 - 💬 Ask me about **Data Science, Machine Learning or Any Data Related Stuff**
 
