@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kdrishabhkd@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1ifc_ClgcKJqaa_oBRv-spPp7mthseKdZ/view?usp=sharing)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1ifc_ClgcKJqaa_oBRv-spPp7mthseKdZ/view?usp=sharingg)
 
 - ⚡ Personal fact **"I believe in listening more than speaking — whether it's data or people, I’m here to understand."**
 
