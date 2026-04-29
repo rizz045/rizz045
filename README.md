@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar Dhirhe</h1>
-<h3 align="center">I’m passionate about Data Science and Analysis with a deep interest in machine learning, predictive analytics, and data-driven insights. My goal is to explore the world of data, uncover meaningful patterns, and build intelligent systems. If you're interested in data science or want to collaborate on exciting projects, you've come to the right place!</h3>
+<h3 align="center">I’m passionate about Data Science and analysis with a deep interest in machine learning, predictive analytics/modeling, and data-driven insights. My goal is to explore the world of data, uncover meaningful patterns, and build intelligent systems. If you're interested in data science or want to collaborate on exciting projects, you've come to the right place!</h3>
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning, Artificial Intelligence and many more.**
 
