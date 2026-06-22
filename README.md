@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1ifc_gcKJqaa_oBRv-spPp)
 
-- ⚡ Personal fact **"I believe in listening more than speaking — whether it's data or people, I’m here to understand."**
+- ⚡ Personal fact **"I believe in listening before speaking; whether it's data or people, I’m here to understand."**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishabh-dhirhe-rizz-kd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kdrishabhkd@gmail.com) 
