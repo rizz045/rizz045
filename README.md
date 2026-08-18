@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/rizz045)
 
-- 💬 Ask me about **Data ience, Machine Learning or Any Data Related Stuff**
+- 💬 Ask me about **Data Science, Machine Learning or Any Data Related Stuff**
 
 - 📫 How to reach me **kdrishabhkd@gmail.com**
 
